@@ -1,7 +1,2 @@
-import android.intro.hello-world
-
-/*
- *
- * Hi all! That's all...
- *
- */
+# hello-world
+The best repository ever...
